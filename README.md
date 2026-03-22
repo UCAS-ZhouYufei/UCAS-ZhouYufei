@@ -67,7 +67,7 @@ Embodied Intelligence, Robotics, Control Theory, Coordinated Manipulation of Dua
 
 ## 获得荣誉
 
-中国科学院大学院长奖学金
+中国科学院院长奖学金
 
 国家奖学金
 
@@ -81,7 +81,7 @@ Embodied Intelligence, Robotics, Control Theory, Coordinated Manipulation of Dua
 
 ## Honors and Awards
 
-President Scholarship of the University of Chinese Academy of Sciences
+President Scholarship of the Chinese Academy of Sciences
 
 National Scholarship
 
