@@ -73,7 +73,7 @@ Embodied Intelligence, Robotics, Control Theory, Coordinated Manipulation of Dua
 
 特等奖学金
 
-中国科学院大学优秀博士毕业生
+中科院优秀博士毕业生
 
 三好学生
 
